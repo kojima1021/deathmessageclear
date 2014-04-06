@@ -1,0 +1,4 @@
+name: AthleticDeathMessageClear
+main: net.bukkit_plugin.kojima1021.deathmessageClear.Main
+version: 1.0.0
+author: kojima1021
